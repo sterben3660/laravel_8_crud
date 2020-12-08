@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>App Name - @yield('title')</title>
+    <title>DCAM- @yield('title')</title>
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css"
         rel="stylesheet">
@@ -20,9 +20,10 @@
             left: 0;
             bottom: 0;
             width: 100%;
-            background-color: #9C27B0;
+            background-color: #333333;
             color: white;
             text-align: center;
+            padding:20px;
         }
         body {
             background-color:  #EDF7EF
@@ -42,10 +43,7 @@
     </div>
     <div class="text-center footer">
 
-        <h4>The writer needs a job</h4>
-        <h4>+234 806 605 6233</h4>
-        <h4>kingsconsult001@gmail.com</h4>
-        <h4>Github: www.github.com/kingsconsult</h4>
+        <h4>文藻數位系測試lara</h4>
 
     </div>
 </body>
